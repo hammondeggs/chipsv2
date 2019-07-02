@@ -9,17 +9,17 @@ A Chiptune style synthesizer and more for your KORG Minilogue XD / Prologue Synt
 Ensure you have the KORG minilogue/prologue sound librarian installed. Now, before you do anything else, **perform a full and complete backup of your synthesizer and save this to disk before continuing**. See the sound librarian manual for instructions on how to do this if required.
 
 Next, select the USER OSCILLATORS tab on the librarian, and press Receive ALL to upload your existing user oscillators. Now, drag and drop the requisite file to an available slot in the librarian :
- - for Minilogue xd users, please use chips.mnlgxdunit
- - for Prologue users, please use chips.prlgunit
+ - for Minilogue xd users, please use chips2.mnlgxdunit
+ - for Prologue users, please use chips2.prlgunit
 
-You should now see chips V2.00-1 listed in your user oscillators. Press "Send All" under USER OSC / FX to send all of your user oscillator / effects to your synthesizer
+You should now see chips2 V2.00-1 listed in your user oscillators. Press "Send All" under USER OSC / FX to send all of your user oscillator / effects to your synthesizer
 
 *please note if you do not do this correctly you may run the risk of losing data. As always, backup, backup, backup!*
 
 #
 ### usage
 
-Chips can be used as simply as a simple saw/pulse/triangle wave, and can have variable PWM applied, thus freeing your single LFO for vibrato or filter duty.
+Chips2 can be used as simply as a simple saw/pulse/triangle wave, and can have variable PWM applied, thus freeing your single LFO for vibrato or filter duty.
 
 In addition, you can have a brief noise 'chiff' applied to the start of your sound, an octave chiff, and / or have chip-tune style arpeggios applied. This is especially interesting on the Minilogue XD as the arpeggiator currently isn't as fast as the built in arpeggiator on the Prologue.
 
